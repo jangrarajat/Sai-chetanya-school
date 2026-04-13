@@ -1,0 +1,9 @@
+{
+  "query": "ALTER TABLE `admissionForms` MODIFY COLUMN `photoUrl` longtext;\nALTER TABLE `scholarshipRegistrations` MODIFY COLUMN `photoUrl` longtext;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway05.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2xgQtwXpJsB3J78.root --database YvGxk5M77aGQy6jNB99hVn --execute ALTER TABLE `admissionForms` MODIFY COLUMN `photoUrl` longtext;\nALTER TABLE `scholarshipRegistrations` MODIFY COLUMN `photoUrl` longtext;",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 2121
+}

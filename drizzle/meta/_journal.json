@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1774682833668,
+      "tag": "0000_dry_monster_badoon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1774682949782,
+      "tag": "0001_mixed_spirit",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1774797502726,
+      "tag": "0002_wakeful_malcolm_colcord",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1774798831542,
+      "tag": "0003_huge_chat",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1774949649646,
+      "tag": "0004_nasty_gauntlet",
+      "breakpoints": true
+    }
+  ]
+}
